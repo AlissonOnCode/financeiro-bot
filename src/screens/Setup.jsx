@@ -17,7 +17,7 @@ export default function Setup({ onSave }) {
         💰
       </div>
 
-      <h1 style={{ fontSize: 22, fontWeight: 700, marginBottom: 8 }}>Financeiro Bot</h1>
+      <h1 style={{ fontSize: 22, fontWeight: 700, marginBottom: 8 }}>Financeiro Bot 💰</h1>
       <p style={{ color: '#666', fontSize: 13, marginBottom: 36, textAlign: 'center', lineHeight: 1.5 }}>
         Insira seu Notion Integration Token<br />para acessar seus dados
       </p>
